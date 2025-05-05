@@ -57,3 +57,9 @@
 </div>
 
 ###
+
+<div align="center">
+  <img src="https://github.com/Tak3daaa/Tak3daaa/blob/output/github-snake-dark.svg" alt="snake animation" />
+</div>
+
+###
