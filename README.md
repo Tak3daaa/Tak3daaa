@@ -1,7 +1,7 @@
 <div align="center">
   <p>
     <a href="https://github.com/Tak3daaa">
-      <img src="https://readme-typing-svg.demolab.com?font=Inconsolata&duration=3000&pause=500&center=true&vCenter=true&width=400&lines=Hi%2C+I'm+Pedro+Vitor...;an+Information+Systems+student+;at+the+Federal+University+of+Piau%C3%AD." alt="Typing SVG"/></a>
+      <img src="https://readme-typing-svg.demolab.com?font=Inconsolata&duration=3000&pause=500&center=true&vCenter=true&width=400&lines=Hi%2C+I'm+Pedro+Vitor...;an+Information+Systems+student+;at+the+Federal+University+of+Piau%C3%AD." alt="Typing About Me"/></a>
   </p>
 
 ###
